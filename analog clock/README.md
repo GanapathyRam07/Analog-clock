@@ -25,7 +25,6 @@ The simple code to create beautiful `Analog clock` in light & dark using HTML, C
   </p>
 </details>
 
-<!-- Visit <a href="https://thevkrant.github.io/Analogue-Clock/">Here</a> -->
 
 ## *Author Name*
-[Vikrant](https://github.com/thevkrant)
+[Ganapathy Ram](https://github.com/GanapathyRam07)
